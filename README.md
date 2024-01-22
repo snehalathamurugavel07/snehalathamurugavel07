@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snehalathamurugavel07
+- 👋 Hi, I’m Snehalatha Murugavel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Html
 
